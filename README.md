@@ -1,2 +1,3 @@
-# dio-desafio-padroes-projeto-java
-Desafio de Projeto - Projetos em Java
+Desafio de Projeto Dio
+
+Padrões de Projeto em Java
